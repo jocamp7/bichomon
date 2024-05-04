@@ -4,7 +4,7 @@ console.log(document.title);
 
 let gen1=document.getElementById('gen-1') ;
 
-gen1.innerHTML='Generasión 1 Pokimon';
+gen1.innerText='Generasión 1 Pokimon';
 
 
 //Cambia el color de fondo de la primera generación de Pokimon. imagino que se refiere al fondo del contenedor 
